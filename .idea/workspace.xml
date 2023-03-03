@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31fb55a2-aecc-4bc5-b92f-01438d3f035b" name="Changes" comment="" />
+    <list default="true" id="31fb55a2-aecc-4bc5-b92f-01438d3f035b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/library/model/service/MassageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/model/service/MassageService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
