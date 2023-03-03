@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31fb55a2-aecc-4bc5-b92f-01438d3f035b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/model/entity/enums/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/model/entity/enums/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/model/repository/CrudRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/model/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/model/service/MassageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/model/service/ServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/model/utils/JpaProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/library/model/entity/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/model/entity/Message.java" afterDir="false" />
-    </list>
+    <list default="true" id="31fb55a2-aecc-4bc5-b92f-01438d3f035b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
