@@ -29,7 +29,7 @@ public class MassageService implements ServiceImpl<Message,Long> {
     public List<Message> findAll(User receiver) throws Exception {
 
         CrudRepository<Message,User> messageDa = new CrudRepository<>();
-        return messageDa.deactivate(Message.class,receiver);
+       List<Message> messageList = messageDa.findAll(Message.class,receiver);
     }
 
     @Override
