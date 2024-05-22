@@ -1,23 +1,6 @@
 hello
-:wq
-
-no
-hello world
-:wq
 
 
 
 
 
-
-ALL
-All
-:q
-:
-w
-q
-are you fucking kiddin?
-;q
-:q
-quit
-/wq
